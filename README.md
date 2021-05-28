@@ -18,7 +18,7 @@
 
 ### Transcription 
 
- 
+ ```
  	DNA coding strand (aka Crick strand, strand +1)	 
 5’	ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG	3’
  	|||||||||||||||||||||||||||||||||||||||	 
@@ -32,3 +32,6 @@
 5’	AUGGCCAUUGUAAUGGGCCGCUGAAAGGGUGCCCGAUAG	3’
  	Single stranded messenger RNA
 
+```
+
+### Quickstart
