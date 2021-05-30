@@ -18,7 +18,7 @@
 
 ### Transcription 
 
- 
+ ```
  	DNA coding strand (aka Crick strand, strand +1)	 
 5’	ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG	3’
  	|||||||||||||||||||||||||||||||||||||||	 
@@ -32,3 +32,20 @@
 5’	AUGGCCAUUGUAAUGGGCCGCUGAAAGGGUGCCCGAUAG	3’
  	Single stranded messenger RNA
 
+```
+
+### Quickstart
+Getting started with sequences
+```python
+from Bio.Seq import Seq
+
+"""
+Working with sequences
+>>> type(my_seq)
+<class 'Bio.Seq.Seq'>
+"""
+
+my_seq = Seq("AGTACACTGGT")
+
+print(my_seq)
+```
